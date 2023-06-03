@@ -9,7 +9,7 @@ O repositório está organizado da seguinte forma:
 - **Exercícios**: lista de exercícios propostos pela professora.
 - **Projetos**: projetos desenvolvidos pelos alunos ao longo da disciplina.
 
-## Como usar
+## Como utilizar
 
 Para acessar o conteúdo do repositório, basta clonar ou fazer o download dos arquivos. Você também pode utilizar o GitHub Desktop para clonar o repositório em seu computador.
 
